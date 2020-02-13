@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "512050770978",
+    "firebase_url": "https://pegasus-671d5.firebaseio.com",
+    "project_id": "pegasus-671d5",
+    "storage_bucket": "pegasus-671d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512050770978:android:d089c82f86d10f772e867b",
+        "android_client_info": {
+          "package_name": "ke.co.kelynpaul.scribblr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512050770978-elm1vtdted9vd6lpm66bff8ja8ikf6af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArKe2Q4jqfnSU-0jkefzHlE5kSTPCAYpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512050770978-elm1vtdted9vd6lpm66bff8ja8ikf6af.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
