@@ -1363,6 +1363,9 @@ id never
 id none
 id normal
 id note_description
+id note_item_description
+id note_item_title
+id note_list
 id note_title
 id notification_background
 id notification_main_column
@@ -1595,6 +1598,7 @@ layout fui_welcome_back_idp_prompt_layout
 layout fui_welcome_back_password_prompt_layout
 layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
+layout note
 layout notification_action
 layout notification_action_tombstone
 layout notification_media_action

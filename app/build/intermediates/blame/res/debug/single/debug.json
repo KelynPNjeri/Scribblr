@@ -36,6 +36,10 @@
         "source": "/home/afridev/Desktop/Android/Scribblr/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
+        "merged": "/home/afridev/Desktop/Android/Scribblr/app/build/intermediates/res/merged/debug/layout_note.xml.flat",
+        "source": "/home/afridev/Desktop/Android/Scribblr/app/src/main/res/layout/note.xml"
+    },
+    {
         "merged": "/home/afridev/Desktop/Android/Scribblr/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
         "source": "/home/afridev/Desktop/Android/Scribblr/app/src/main/res/layout/activity_main.xml"
     },
